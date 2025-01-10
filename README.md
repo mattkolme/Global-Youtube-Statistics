@@ -13,11 +13,10 @@ Due dataset fittizi scaricati da Kaggle, uno di canali YouTube all’anno 2023, 
 
 Come Utilizzarlo:
 
-1. Clona il repository:
+1. Clona il repository
 
-2. Esegui il codice Python:
+2. Esegui il codice Python
 
-3. Apri il file Tableau per visualizzare la dashboard.
+3. Apri il file Tableau per visualizzare la dashboard
 
-Risultati
-Evidenzia brevemente i risultati dell'analisi: trend principali, insight, ecc.
+Aperto a suggerimenti :)
